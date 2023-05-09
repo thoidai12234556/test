@@ -53,6 +53,6 @@ public class ptb2 {
                     + "x1 = x2 = " + x1);
         } else {
             System.out.println("Phương trình vô nghiệm!");
-        } //Đây là version 1
+        } //Đây là version 2
     }
 }
