@@ -52,7 +52,7 @@ public class ptb2 {
             System.out.println("Phương trình có nghiệm kép: "
                     + "x1 = x2 = " + x1);
         } else {
-            System.out.println("Phương trình có nghiệm kép!");
-        }
+            System.out.println("Phương trình vô nghiệm!");
+        } //Đây là version 1
     }
 }
